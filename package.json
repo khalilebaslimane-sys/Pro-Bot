@@ -1,0 +1,14 @@
+{
+  "name": "new-app",
+  "version": "1.0.0",
+  "description": "Tank Game Professional Bot",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
